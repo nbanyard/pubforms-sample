@@ -1,0 +1,4 @@
+<Files ~ "\.(inc|py|csv)">
+    order allow,deny
+    deny from all
+</Files>

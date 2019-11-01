@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/nbanyard/pubforms-php"
+        }
+    ],
+    "require": {
+        "nbanyard/pubforms-php": "~1.0.0"
+    }
+}
